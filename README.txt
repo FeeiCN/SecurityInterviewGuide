@@ -2,10 +2,13 @@
 安全面试指南（SecurityInterviewGuide）
 
 
-内容概述
+本文目标
 
-   安全从业者面试指南，内容围绕行业、从业者、公司以及面试经验和题库展开，以作者多年面试和被面试经验和资深HR校对为基础，持续更新题库，助你顺利通过面试。如果你有补充的，可通过本项目Issue或Pull Request提交。
+   也许你见多了各种各样的面试题库，不知你是否想过，怎么问问题及问哪些问题能够准确的知道你的能力水平？本文目标是希望创造一份针对网络安全领域的系统、全面、高质量的题库，使其可以准确的衡量安全能力水平。
 
+   安全从业者面试指南，内容先以了解行业、从业者、甲乙方为基础，辅以一些通用面试经验，核心是题库。题库会按照安全细分方向、安全产品、安全能力等展开，通过这些问题能够知道面试者自身能力水平、所在方向的深入程度、甚至所在企业的安全水位。
+   
+   本文将持续维护更新，力争何时都适用。因能力精力有限，如有错漏，请通过Issue<https://github.com/FeeiCN/SecurityInterviewGuide/issues/new/choose>提交反馈或Pull Request<https://github.com/FeeiCN/SecurityInterviewGuide/edit/master/README.txt>修正，感谢！
 
 读者对象
     
@@ -21,7 +24,7 @@
 
 版权申明
 
-   本文版权归属 Feei<feei@feei.cn>，仅代表个人观点，和所在公司无关，如有任何建议或意见请直接联系作者。本文开放至互联网，可免费阅读转载，转载请注明本文作者和本文链接 <https://github.com/FeeiCN/SecurityInterviewGuide>。
+   本文仅代表个人观点，和所在公司无关，如有任何建议或意见请直接联系作者。本文开放至互联网，可免费阅读转载，转载请注明本文作者和本文链接<https://github.com/FeeiCN/SecurityInterviewGuide>。
 
 
 目录结构
